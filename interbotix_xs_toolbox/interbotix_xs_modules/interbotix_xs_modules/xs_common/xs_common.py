@@ -52,7 +52,7 @@ _XSLOCOBOT_MODELS = (
     'locobot_px100',
     'locobot_wx200',
     'locobot_wx250s',
-    'locobot_rx200,
+    'locobot_rx200',
 )
 
 
