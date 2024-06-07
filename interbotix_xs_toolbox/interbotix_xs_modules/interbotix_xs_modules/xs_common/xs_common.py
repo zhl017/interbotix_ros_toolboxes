@@ -43,6 +43,7 @@ _XSARM_MODELS = (
     'mobile_px100',
     'mobile_wx200',
     'mobile_wx250s',
+    'mobile_rx200',
 )
 
 # Tuple of valid Interbotix LoCoBot models
